@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Cloud architecture**
 
-- Follow me on [https://www.linkedin.com/in/akashkundu010?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/akashkundu010?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 - 💬 Ask me about **Data Structure**
 
 - 📫 How to reach me **akashkundu9883@gmail.com**

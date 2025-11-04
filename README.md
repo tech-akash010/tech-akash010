@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kundu</h1>
-<h3 align="center">A passionate tech enthusiast & also a content Creator</h3>
+<h3 align="center">A passionate tech enthusiast & a content Creator</h3>
 
 - 🔭 I’m currently working on **Agentic AI**
 

@@ -1,3 +1,14 @@
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+
+</div>
+
+<br/>
+
+<div align="center"
 # 💫 About Me:
 🔭 I’m currently working on Agentic AI<br><br>🌱 I’m currently learning Cloud architecture<br><br>💬 Ask me about Data Structure<br><br>📫 How to reach me akashkundu9883@gmail.com<br><br>
 

@@ -1,163 +1,253 @@
-# 👋 Hi, I'm Akash Kundu
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Agentic+AI+Enthusiast;Cloud+Architecture+%26+DevOps;Building+Intelligent+Systems;Continuous+Learner)
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:00ff88,100:ff00ff&height=300&section=header&text=AKASH%20KUNDU&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Innovator%20|%20AI%20Architect%20|%20Cloud%20Engineer&descAlignY=55&descAlign=50&descSize=20&stroke=ffffff&strokeWidth=2" />
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=⚡+Crafting+Digital+Experiences+That+Matter;🔥+Turning+Coffee+into+Code+Since+Day+One;🌟+Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+
+<br/>
+
+<!-- Animated Badges -->
+<a href="https://github.com/tech-akash010">
+  <img src="https://img.shields.io/badge/🔥_PROFILE_VIEWS-check_below-ff00ff?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tech-akash010&label=VISITORS&color=00d9ff&style=for-the-badge)](https://github.com/tech-akash010)
+[![GitHub followers](https://img.shields.io/github/followers/tech-akash010?label=FOLLOWERS&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/tech-akash010?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/tech-akash010?label=TOTAL%20STARS&style=for-the-badge&color=ff00ff&labelColor=0d1117)](https://github.com/tech-akash010)
 
 </div>
 
----
-
-## 🚀 About Me
-
-I'm a passionate technologist currently diving deep into **Agentic AI** while building expertise in **Cloud Architecture** and **DevOps**. I believe in creating intelligent, scalable systems that solve real-world problems.
-
-- 🤖 **Currently Learning:** Agentic AI & Autonomous Systems
-- ☁️ **Interested In:** Cloud Architecture, DevOps, Infrastructure as Code
-- 🛠️ **Building:** AI-powered applications and cloud-native solutions
-- 🌱 **Growing:** Exploring the intersection of AI and cloud infrastructure
-- 💡 **Philosophy:** Automate everything, optimize relentlessly
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### **Design & Prototyping**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### **AI & Machine Learning**
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkundu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="Akash's GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkundu&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="Akash's Streak Stats" width="48%" />
+
+## � PLAYER STATS
 
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkundu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9" alt="Top Languages" width="48%" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkundu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" width="98%" />
+```js
+// 🎯 akash.config.js - Loading Developer Profile...
 
-</div>
+const akash = {
+    name: "Akash Kundu",
+    title: "Full Stack Developer & AI Enthusiast",
+    location: "India 🇮🇳",
+    
+    currentQuest: "🚀 Mastering Agentic AI & Cloud Architecture",
+    
+    skills: {
+        languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+        frontend: ["React", "Next.js", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        cloud: ["Docker", "AWS", "Netlify", "Vercel"],
+        ai_ml: ["TensorFlow", "LangChain", "OpenAI", "Gemini"],
+        design: ["Figma", "Canva", "Adobe XD"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    
+    currentlyLearning: ["Agentic AI", "Cloud Architecture", "DevOps"],
+    
+    dailyRoutine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"],
+    
+    motto: "Build fast. Ship faster. Learn fastest. 🚀"
+};
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=akashkundu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-```mermaid
-mindmap
-  root((Akash Kundu))
-    Agentic AI
-      Autonomous Agents
-      LLM Integration
-      Multi-Agent Systems
-    Cloud Architecture
-      Scalable Systems
-      Microservices
-      Infrastructure Design
-    DevOps
-      CI/CD Pipelines
-      Container Orchestration
-      Automation
-    Development
-      System Programming
-      API Design
-      Performance Optimization
+export default akash;
 ```
 
----
-
-## 📈 Contribution Activity
-
+<!-- Snake Animation -->
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkundu&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌟 Featured Projects
-
-<!-- Add your pinned repositories here -->
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akashkundu&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/akashkundu/your-repo-name)
+
+## ⚔️ TECH ARSENAL
+
+### 💻 Languages & Core
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" />
+</p>
+
+### � Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,netlify,vercel,git,github&theme=dark" />
+</p>
+
+### 🤖 AI & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,figma,vscode,postman&theme=dark" />
+</p>
 
 </div>
 
-> **Note:** something is coming !
-
----
-
-##  Connect With Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tech-akash010)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkundu010?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0x.akash?igsh=MWNrM2V5bzVmd3BwMw==)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rayofroads?si=Ap1pnjsPM4nVQ_x0)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Akash765052)
+
+## 🏆 TROPHY CABINET
+
+<img src="https://github-profile-trophy.vercel.app/?username=tech-akash010&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
----
-
-## 💭 Quote of the Day
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📊 PERFORMANCE METRICS
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=tech-akash010&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&ring_color=ff00ff" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tech-akash010&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff00ff&currStreakLabel=00ff88" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-akash010&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
----
-
-## 📊 Profile Views
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=akashkundu&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+## 📈 CONTRIBUTION MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-akash010&bg_color=0d1117&color=00d9ff&line=ff00ff&point=00ff88&area=true&hide_border=true&custom_title=Akash's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  
-  ### 🚀 "Building the future, one commit at a time"
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
+## 🎯 CURRENT MISSIONS
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6d3d6ZXNtMGdzNW1mY2NmMnR6NXd2czdnOWFqNWdxbXQ0Y2Y5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
+
+### 🤖 AI Revolution
+Building intelligent systems that think, learn, and evolve autonomously with cutting-edge Agentic AI
+
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng5dHJnaGt6YmZmYWRlbXNtNWN6cHByYnN6cW9wNGtqcnNqam5xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/>
+
+### ☁️ Cloud Mastery
+Architecting scalable, resilient cloud infrastructure that powers tomorrow's applications
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVoNWZ6NGF2d3A1aWMxZGR5bnZiMXNqZWx5Y2czOXVvNzRmMnVsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+
+### 🔧 DevOps Excellence
+Streamlining development workflows with CI/CD pipelines and container orchestration
+
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhxOGY4dDN5bWNlZmVrZ2NxcmtwZGpyMDNvbXNiem5nMGJhdjJ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+
+### 💡 Open Source
+Contributing to projects that push boundaries and make a real-world impact
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 🌐 CONNECT & COLLABORATE
+
+<p>
+<a href="mailto:akashkundu@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/tech-akash010">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/tech_akash010">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://github.com/tech-akash010">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+<br/>
+
+<!-- Spotify Playing -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o3yjgkdjwcqwwqbycmltv4hsya&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 💭 DAILY DOSE OF WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+## 😂 CODE HUMOR
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%2300d9ff&aColor=%23ff00ff&bgColor=%230d1117&borderColor=%2300ff88" alt="Jokes Card" />
+
+</div>
+
+<br/>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:00ff88,100:ff00ff&height=150&section=footer"/>
+
+<div align="center">
+
+### ✨ Thanks for visiting! Let's create something extraordinary together ✨
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Aber/Tarikul-Islam-Azer/output/snake.svg" alt="Snake animation" />
+
+**"The best error message is the one that never shows up."**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff00ff?style=for-the-badge&labelColor=0d1117" />
+
+⭐ **If you like what you see, drop a star!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d9ff,100:ff00ff&height=30&section=header&reversal=true" width="100%"/>
 
 </div>

@@ -362,7 +362,7 @@ Contributing to projects that push boundaries and make a real-world impact
 ## 🌐 CONNECT & COLLABORATE
 
 <p>
-<a href="[https://instagram.com/tech_akash010](https://www.instagram.com/0x.akash?igsh=MWNrM2V5bzVmd3BwMw==)">
+<a href="https://www.instagram.com/0x.akash?igsh=MWNrM2V5bzVmd3BwMw==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/akashkundu010?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">

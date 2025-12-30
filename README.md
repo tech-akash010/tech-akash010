@@ -104,15 +104,15 @@ export default akash;
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tech-akash010&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&ring_color=ff00ff" alt="GitHub Stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tech-akash010&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&ring_color=ff00ff" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tech-akash010&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff00ff&currStreakLabel=00ff88" alt="GitHub Streak"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=tech-akash010&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff00ff&currStreakLabel=00ff88&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-akash010&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-akash010&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -239,4 +239,3 @@ Contributing to projects that push boundaries and make a real-world impact
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00d9ff,100:ff00ff&height=30&section=header&reversal=true" width="100%"/>
 
 </div>
-

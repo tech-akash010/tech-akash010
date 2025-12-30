@@ -85,49 +85,6 @@ export default akash;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## 🏆 TROPHY CABINET
-
-<img src="https://github-profile-trophy.vercel.app/?username=tech-akash010&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## 📊 PERFORMANCE METRICS
-
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=tech-akash010&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff88&text_color=ffffff&ring_color=ff00ff" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com?user=tech-akash010&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff00ff&currStreakLabel=00ff88&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-akash010&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## 📈 CONTRIBUTION MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-akash010&bg_color=0d1117&color=00d9ff&line=ff00ff&point=00ff88&area=true&hide_border=true&custom_title=Akash's%20Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
 ## 🎯 CURRENT MISSIONS
